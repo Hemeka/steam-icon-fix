@@ -1,3 +1,6 @@
+Extract the files in C:\Program Files (x86)\Steam\steam\games and run rebuild_icon_cache.bat
+
+
 # Steam Icon Fix (Python)
 ## Documentation
 English | [简体中文](https://github.com/brotherjie-win/steam-icon-fix/blob/main/README_SC.md) | [繁體中文](https://github.com/brotherjie-win/steam-icon-fix/blob/main/README_TC.md)
